@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/home_s.svg</file>
+        <file>icon/Engage_Launcher.svg</file>
+        <file>icon/Focus_svg.svg</file>
+        <file>icon/Firing_Mode_svg.svg</file>
+        <file>icon/Polarity.svg</file>
+        <file>icon/home_greencolour.svg</file>
+        <file>icon/missile_green.svg</file>
+        <file>icon/Request_g.svg</file>
+        <file>icon/exposure_svg.svg</file>
+        <file>icon/minus_s.svg</file>
+        <file>icon/Plus_s.svg</file>
+        <file>icon/Missile_Engage.svg</file>
+        <file>icon/Zoom_svgL.svg</file>
+        <file>icon/LRF_png1.svg</file>
+        <file>icon/Night_Moon_Svg_Use.svg</file>
+        <file>icon/Day_cam_svg.svg</file>
+        <file>icon/infrared (1).svg</file>
+        <file>icon/Night_moon_purewhite.svg</file>
+        <file>icon/logout.svg</file>
+        <file>icon/pageMaintenance.svg</file>
+        <file>icon/pageStatusPanel.svg</file>
+        <file>icon/Back_button.svg</file>
+        <file>icon/openeye_green.svg</file>
+        <file>icon/CloseEye_Green.svg</file>
+        <file>icon/leftImage_SLMS_NoBg.png</file>
+        <file>icon/Flipped_SLMS_RightImage.png</file>
+        <file>fonts/NotoSans-Regular.ttf</file>
+    </qresource>
+</RCC>

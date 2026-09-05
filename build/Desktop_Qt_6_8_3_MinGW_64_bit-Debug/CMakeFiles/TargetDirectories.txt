@@ -1,0 +1,5 @@
+C:/Users/admin/Downloads/MLCS_MainWindow_lastupdated/MLCS_MainWindow/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/MLCS.dir
+C:/Users/admin/Downloads/MLCS_MainWindow_lastupdated/MLCS_MainWindow/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/admin/Downloads/MLCS_MainWindow_lastupdated/MLCS_MainWindow/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/admin/Downloads/MLCS_MainWindow_lastupdated/MLCS_MainWindow/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/MLCS_autogen_timestamp_deps.dir
+C:/Users/admin/Downloads/MLCS_MainWindow_lastupdated/MLCS_MainWindow/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/MLCS_autogen.dir
